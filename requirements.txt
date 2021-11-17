@@ -1,0 +1,13 @@
+gym==0.18.0
+ipython==7.29.0
+Keras==2.4.3
+keras_rl2==1.0.4
+matplotlib==3.4.2
+numpy==1.19.5
+pandas==1.2.4
+plotly==5.1.0
+py2flowchart==0.0.2
+rl==3.0
+scipy==1.4.1
+seaborn==0.11.2
+tensorflow==2.4.1
